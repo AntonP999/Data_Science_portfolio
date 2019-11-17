@@ -1,3 +1,5 @@
+Rossmann - solution for kaggle competition "Rossmann store sales" (https://www.kaggle.com/c/rossmann-store-sales).
+
 Mercari price suggestion challenge.ipynb - solution to kaggle competition 
 https://www.kaggle.com/c/mercari-price-suggestion-challenge with RMSLE score 0.45099.
 
