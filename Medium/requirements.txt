@@ -1,0 +1,11 @@
+numpy
+pandas
+json
+tqdm
+contextlib
+sklearn
+scipy
+lightgbm
+html
+re
+nltk
