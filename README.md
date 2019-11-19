@@ -6,3 +6,5 @@ https://www.kaggle.com/c/mercari-price-suggestion-challenge with RMSLE score 0.4
 shampoo-RNN.ipynb - Feature engineering and applying RNN to very small dataset (shampoo.csv).
 
 Medium - The solution script for "How good is your Medium article?" Kaggle competition with 1.41990 public LB score (top 9%).
+
+DOTA - The solution script for "DOTA 2 winner prediction" competition. Produces a submission for 0.85360 public LB score (top 14%).
